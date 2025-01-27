@@ -1,1 +1,1 @@
-![Alt text](kitty/images/demoOne.gif)
+![Demo](kitty/images/demoOne.gif)
